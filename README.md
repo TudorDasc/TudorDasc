@@ -80,9 +80,11 @@ Built a testing tool for C++ programs to improve code coverage through automated
 
 ## 📚 Education
 🎓 **MSc in Information Security Technology** - Eindhoven University of Technology
+
 *Specialization: Wireless intrusion detection & Cryptology*
 
 🎓 **BSc in Computer Science and Engineering** - Eindhoven University of Technology
+
 *Focus: Algorithms, Networks, Security*
 
 ---
